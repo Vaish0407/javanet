@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "data": {
+        "hubId": 1,
+        "hubSerialNo": "00E04B63566D",
+        "ipAddress": "10.250.128.1",
+        "port": 50000,
+        "readOnly": true,
+        "connectedAt": "2025-07-03T09:07:01.8444631Z",
+        "connectionKey": "af0d44a0-3e7f-4868-9e3f-7ee19ef8c658",
+        "errorCode": -1,
+        "errorMessage": null
+    },
+    "error": null,
+    "timestamp": "2025-07-03T09:07:01.9903232Z"
+}

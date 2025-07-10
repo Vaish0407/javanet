@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <id>system.score.vms.VLiteMain</id>
+    <name>VMS Bridge</name>
+    <description>VMS Java module exposing REST client functions</description>
+    <version>1.0.0</version>
+    <requiredIgnitionVersion>8.1.0</requiredIgnitionVersion>
+    <moduleHook scope="G">system.score.vms.GatewayHook</moduleHook>
+</module>

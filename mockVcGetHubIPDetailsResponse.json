@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": {
+    "hubId": 1,
+    "ipAddr": "",
+    "subNetMask": "255.255.255.0",
+    "gateway": "10.250.128.254",
+    "hostName": "G3SPU",
+    "domain": "none",
+    "dhcpStatus": true,
+    "portNumber": 50000,
+    "dnsServer1": "10.250.128.254",
+    "dnsServer2": "::1",
+    "queriedAt": "2025-07-03T05:35:21.2826299Z",
+    "errorCode": -1,
+    "errorMessage": ""
+  },
+  "error": null,
+  "timestamp": "2025-07-03T05:35:21.4438948Z"
+}
